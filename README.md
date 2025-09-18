@@ -1,34 +1,82 @@
-<h1 align="center">Hi 👋, I'm Prajwal Nikhar</h1>
-<h3 align="center">Pursuing MBA in Big Data Analytics from GIM, Goa</h3>
+# 👋 Hi, I'm Prajwal Nikhar!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-nikhar&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-nikhar" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalnikhar/)
+[![Website](https://img.shields.io/badge/Portfolio-visit-green?logo=google-chrome&logoColor=white)](https://prajwal-nikhar-portfolio.netlify.app)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwal-nikhar" alt="prajwal-nikhar" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Data Analytics Project**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Data Analysis and Visualisation**
+<details>
+  <summary>Short Bio</summary>
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/frontend-dev-prajwal/projects](https://app.netlify.com/teams/frontend-dev-prajwal/projects)
+Prajwal Nikhar is a passionate PGDM student specializing in Big Data Analytics, with hands-on experience in Automation Testing at TCS. Skilled in Python, Data Analytics, Tableau, Power BI, and MySQL, Prajwal actively engages in real-world projects, including building ESG dashboards for KPMG and analyzing crypto and stock markets through Python and Power BI visualizations. Driven by curiosity and a growth mindset, Prajwal combines technical expertise with a strong analytical approach to solve complex business challenges.
+</details>
 
-- 💬 Ask me about **python, numpy, pandas**
+---
 
-- 📫 How to reach me **prajwalnikhar1@gmail.com**
+## 🛠️ Skills
 
-- ⚡ Fun fact **I think I am funny with an introvert attitude**
+```python
+Python | Data Analytics | Power BI | Tableau | MySQL | Automation Testing
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prajwalnikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajwalnikhar/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/prajwalnikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prajwalnikhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/prajwal_nikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prajwal_nikhar/" height="30" width="40" /></a>
-</p>
+- **Data Visualization:** Power BI, Tableau  
+- **Programming:** Python  
+- **Database:** MySQL  
+- **Automation:** Selenium, Testing  
+- **Analytics:** Data Cleaning, Manipulation, & Visualization
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-nikhar&show_icons=true&locale=en&layout=compact" alt="prajwal-nikhar" /></p>
+## 🏆 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-nikhar&show_icons=true&locale=en" alt="prajwal-nikhar" /></p>
+<details>
+  <summary><b>KPMG ESG Dashboard</b></summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-nikhar&" alt="prajwal-nikhar" /></p>
+Building an interactive ESG dashboard for KPMG, integrating complex data sources and visualization techniques for actionable insights.
+
+</details>
+
+<details>
+  <summary><b>Crypto & Stock Market Analytics</b></summary>
+
+Analyzing and visualizing trends in cryptocurrency and stock markets using Python (data cleaning, analysis, visualization) and Power BI dashboards.
+
+</details>
+
+---
+
+## ⚽ Hobbies
+
+```text
+🏏 Cricket   ⚽ Football   🏊 Swimming   🥾 Trekking   💻 Coding
+```
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/prajwalnikhar/)
+- [Personal Website / Portfolio](https://prajwal-nikhar-portfolio.netlify.app)
+
+---
+
+## 📊 GitHub Stats
+
+![Prajwal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-nikhar&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-nikhar&layout=compact&theme=vision-friendly-dark)
+
+---
+
+<details>
+  <summary>More About Me</summary>
+
+- 🌱 Currently learning advanced data analytics and dashboarding techniques  
+- 🏢 Open to internship and project opportunities in Analytics & Data Science  
+- 🧩 Always exploring new technologies and challenging problems!
+</details>
