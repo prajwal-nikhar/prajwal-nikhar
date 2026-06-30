@@ -1,0 +1,21 @@
+name: Waka Readme
+ 
+on:
+  schedule:
+    # Runs every day at 02:00 UTC — change as you like
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+ 
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Optional: change visual block style
+          BLOCKS: "░▒▓█"
+          # Optional: only show top N languages
+          SHOW_TIME: "true"
