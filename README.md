@@ -402,9 +402,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-### ⭐ Building AI that creates measurable business impact.
-<div center='align'>
-Made with ❤️ by **Prajwal Nikhar**
+<br>
+<br>
+<div align="center">
+Made with ❤️ by Prajwal Nikhar
 </div>
