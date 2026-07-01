@@ -403,18 +403,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
----
-# 📈 Coding Activity
-
-<!--START_SECTION:waka-simple-->
-
-<!--END_SECTION:waka-simple-->
----
-# 💻 Coding Timeline
-
-<!--START_SECTION:waka-time-->
-
-<!--END_SECTION:waka-time-->
 
 ### ⭐ Building AI that creates measurable business impact.
 
