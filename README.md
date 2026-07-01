@@ -67,162 +67,31 @@ I enjoy building intelligent systems that solve real business problems while com
 | 30+ Months at TCS | Power BI, Tableau, Python | LLMs, RAG, AI Agents |
 
 ---
-
-# <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 💻 Languages
-
+### Languages
 <img src="https://skillicons.dev/icons?i=python,java,r,mysql" />
 
-<br><br>
-
-Python • Java • SQL • R
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖 AI / ML
-
+### AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<br><br>
-
-Machine Learning
-
-Deep Learning
-
-LLMs
-
-RAG
-
-AI Agents
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
-
-<br><br>
-
-Google Cloud
-
-AWS
-
-Azure
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-
-<br><br>
-
-FastAPI
-
-Flask
-
-REST APIs
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-</td>
-
-<td align="center">
-
-### 🗄 Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-
-</td>
-
-<td align="center">
-
-### 📊 Analytics
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tableau,powerbi" />
-
 <br>
+<sub>Machine Learning • Deep Learning • LLMs • RAG • AI Agents</sub>
 
-Pandas
+### Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask" />
 
-NumPy
+### Cloud & Database
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,postgres,mongodb" />
 
-Scikit-Learn
-
-Power BI
-
-Tableau
-
-</td>
-
-<td align="center">
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" />
-
-</td>
-
-</tr>
-
-</table>
+### Analytics & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+<br>
+<sub>Pandas • NumPy • Scikit-learn • Power BI • Tableau</sub>
 
 </div>
 
-# 📊 Skill Matrix
-
-| Domain | Expertise |
-|---------|-----------|
-| 🐍 Python | ██████████ 95% |
-| 🤖 Machine Learning | █████████ 90% |
-| 📊 Data Analytics | █████████ 90% |
-| 🧠 Generative AI | ████████ 80% |
-| ☁️ Google Cloud | ████████ 80% |
-| 🗄 SQL | █████████ 90% |
-| 📈 Tableau / Power BI | █████████ 90% |
-| 🌐 React / Next.js | ███████ 70% |
-| ⚙️ FastAPI | ████████ 80% |
-| 🚀 Git & GitHub | █████████ 90% |
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Building AI Agents
-- 🧠 Learning Model Context Protocol (MCP)
-- 📚 Advanced Retrieval-Augmented Generation
-- 📈 Business & Product Analytics
-- ☁️ Cloud-native AI Solutions
-- 🌍 Open Source Contributions
-
----
-
----
 
 # <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="35"/> Featured Projects
 
@@ -231,8 +100,6 @@ Tableau
 > Production-ready projects demonstrating AI, Machine Learning, Business Analytics, and Software Engineering.
 
 </div>
-
----
 
 <table>
 
