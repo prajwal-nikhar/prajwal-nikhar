@@ -1,88 +1,157 @@
-<h1 align="center">Hi, I'm Prajwal Nikhar 👋</h1>
-<h3 align="center">MBA – Big Data Analytics @ Goa Institute of Management | Product Management Intern @ Bosch Global Software Technologies</h3>
+<!-- ========================================================= -->
+<!--                     PRAJWAL NIKHAR                         -->
+<!--              GitHub Profile README (v1.0)                 -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajwalnikhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://prajwal-nikhar-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-visit-4285F4?logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:prajwal.nikhar01@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=prajwal-nikhar&label=Profile%20Views&color=4c1&style=flat" />
+<div align="center">
+
+# Prajwal Nikhar
+
+<!-- Custom Banner Goes Here -->
+
+<img src="./assets/banner/banner.svg" width="100%" alt="Banner"/>
+
+<br><br>
+
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+Engineer;MBA+%7C+Big+Data+Analytics;Data+Analytics+Professional;Building+AI-Powered+Products" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-1A73E8?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
+<br>
+
+<!-- Social Buttons -->
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prajwalnikhar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prajwal-nikhar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/prajwal_nikhar/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.kaggle.com/prajwal">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+</div>
 
 ---
 
-### 🎯 About Me
+# 👨‍💻 About Me
 
-I'm an MBA student in the **Big Data Analytics** program at **Goa Institute of Management**, currently in my Summer Internship at **Bosch Global Software Technologies (Bangalore)**, working as a Product Manager on GenAI adoption research and enterprise AI platform evaluation.
-
-I sit at the intersection of **product thinking, data analytics, and applied AI/ML** — combining an MBA lens (market analysis, product strategy, stakeholder communication) with hands-on technical execution (Python, R, RAG pipelines, dashboards).
-
-- 🏢 Building competitive intelligence and product teardowns on enterprise AI platforms (Glean, RAG/knowledge management systems) at Bosch
-- 🧠 Building **GIMBot**, an open-source RAG chatbot for GIM students (multi-agent LangGraph architecture, ChromaDB, Groq/LLaMA)
-- 📊 Building a **Credit Risk Analytics pipeline in R** as part of my Term 4 elective at GIM
-- 📈 Competing in the **IndiaStox National Equity Research Challenge**
-- 🌱 Running a self-directed 8-week AI/ML learning roadmap with daily coding and a tracked GitHub portfolio
+> Content will be added in Phase 3.
 
 ---
 
-### 🛠️ Skills & Tools
+# 💼 Professional Snapshot
 
-**Languages & Analytics:** Python · R · SQL (MySQL)
-**Data & Visualization:** Power BI · Tableau · Pandas
-**AI / ML / GenAI:** LangGraph · ChromaDB · RAG architectures · Groq / LLaMA · Prompt evaluation & enterprise AI tooling
-**Product & Documents:** PptxGenJS (automated deck generation), market/competitive analysis, product teardowns
-**Other:** Git/GitHub, Jira (progress tracking)
+> Content coming soon.
 
 ---
 
-### 🚀 Featured Projects
+# 🛠 Tech Stack
 
-| Project | Description |
-|---|---|
-| **[GIMBot](https://github.com/prajwal-nikhar)** | Open-source RAG-based chatbot for GIM students — multi-agent architecture (LangGraph), ChromaDB vector store, Groq/LLaMA inference, with a self-learning feedback loop |
-| **[CRA-using-R-Code](https://github.com/prajwal-nikhar)** | Credit Risk Analytics pipeline built in R, with daily progress tracked for a GIM Term 4 elective |
-| **Enterprise AI Competitive Intelligence (Bosch SIP)** | Product teardown decks and architecture analysis comparing GenAI/RAG platforms (Glean, Vectara, Onyx, Cohere North) |
-
-*(Replace the `#` links above with the actual repo URLs once finalized — happy to update if you give me the exact repo names.)*
+> Content coming soon.
 
 ---
 
-### 📫 Connect with Me
+# 🚀 Current Focus
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/prajwalnikhar/)
-- 🌐 [Portfolio](https://prajwal-nikhar-portfolio.netlify.app)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=prajwal-nikhar&show_icons=true&hide_border=true&theme=vision-friendly-dark&count_private=true" alt="Prajwal's GitHub Stats" />
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-nikhar&layout=compact&langs_count=8&hide_border=true&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-<br clear="both" />
+> Content coming soon.
 
 ---
 
-### ⏱️ Live Coding Activity (via WakaTime)
+# 🌟 Featured Projects
 
-> The block below is auto-rewritten by a GitHub Action on a schedule — language, editor, and OS breakdown comes straight from real coding sessions, not a manual list.
+> Content coming soon.
 
-<!--START_SECTION:waka-->
+---
 
-<!--END_SECTION:waka-->
+# 📈 GitHub Analytics
+
+> Widgets will be added.
+
+---
+
+# 💻 Coding Profiles
+
+> LeetCode • Kaggle • Google Cloud Skills Boost
+
+---
+
+# 📅 Experience Timeline
+
+> SVG Timeline coming soon.
+
+---
+
+# 🏆 Achievements
+
+> Content coming soon.
+
+---
+
+# 📚 Learning Roadmap
+
+> SVG Roadmap coming soon.
+
+---
+
+# 🌍 Open Source
+
+> Content coming soon.
+
+---
+
+# ⚡ Dynamic Widgets
+
+> Snake • Metrics • Activity • Visitors
+
+---
+
+# 🎯 Goals
+
+### 2026
+
+- AI Internship
+- AI Projects
+- Open Source
+
+### 2027
+
+- AI Engineer
+- Technical Blogs
+- Community Speaker
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_RESUME">
+<img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Prajwal Nikhar**
+
+</div>
