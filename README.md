@@ -1,30 +1,32 @@
-<!-- ========================================================= -->
-<!--                     PRAJWAL NIKHAR                         -->
-<!--              GitHub Profile README (v1.0)                 -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# Prajwal Nikhar
+<!-- ======================== BANNER ======================== -->
 
-<!-- Custom Banner Goes Here -->
-
-<img src="./assets/banner/banner.svg" width="100%" alt="Banner"/>
+<img src="./assets/banner/banner.svg" alt="Banner" width="100%" />
 
 <br><br>
 
-<!-- Typing Animation -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+Engineer;MBA+%7C+Big+Data+Analytics;Data+Analytics+Professional;Building+AI-Powered+Products" />
+<!-- ======================== NAME ======================== -->
+
+# Hi, I'm Prajwal Nikhar 👋
+
+### AI Engineer • Data Analytics Professional • MBA (Big Data Analytics)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products;Generative+AI+%7C+LLMs+%7C+RAG;Business+Analytics+%7C+Data+Science;Former+TCS+System+Engineer;Google+Cloud+Certified" />
 </p>
 
-<br>
+---
 
-<!-- Social Buttons -->
+### 🚀 Bridging **Artificial Intelligence**, **Business Analytics**, and **Technology** to build production-ready solutions.
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/prajwalnikhar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,116 +44,80 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## ⚡ Quick Snapshot
 
-> Content will be added in Phase 3.
+<table>
+<tr>
 
----
+<td width="50%">
 
-# 💼 Professional Snapshot
+### 👨‍💻 About
 
-> Content coming soon.
+- 🎓 MBA (Big Data Analytics) @ Goa Institute of Management
+- 💼 Former System Engineer @ Tata Consultancy Services
+- 🤖 AI, LLMs & RAG Enthusiast
+- 📊 Business & Product Analytics
+- ☁️ Google Cloud Certified
+- 🌱 Currently exploring AI Agents & MCP
 
----
+</td>
 
-# 🛠 Tech Stack
+<td width="50%">
 
-> Content coming soon.
+### 📌 Highlights
 
----
+- 💻 30+ Months Industry Experience
+- 🚀 Building Production AI Applications
+- 📈 Data Analytics & Machine Learning
+- 🏆 Research Publication
+- 🌍 Google Cloud Community
+- 🎯 Open to AI/ML Opportunities
 
-# 🚀 Current Focus
+</td>
 
-> Content coming soon.
-
----
-
-# 🌟 Featured Projects
-
-> Content coming soon.
-
----
-
-# 📈 GitHub Analytics
-
-> Widgets will be added.
-
----
-
-# 💻 Coding Profiles
-
-> LeetCode • Kaggle • Google Cloud Skills Boost
+</tr>
+</table>
 
 ---
 
-# 📅 Experience Timeline
+## 📊 GitHub at a Glance
 
-> SVG Timeline coming soon.
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=prajwal-nikhar&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
-# 🏆 Achievements
+<img src="https://img.shields.io/github/followers/prajwal-nikhar?style=for-the-badge"/>
 
-> Content coming soon.
+<img src="https://img.shields.io/github/stars/prajwal-nikhar?style=for-the-badge"/>
 
----
-
-# 📚 Learning Roadmap
-
-> SVG Roadmap coming soon.
+</p>
 
 ---
 
-# 🌍 Open Source
+## 🎯 Current Focus
 
-> Content coming soon.
+```text
+🧠 Generative AI
 
----
+⚡ AI Agents
 
-# ⚡ Dynamic Widgets
+📚 Retrieval-Augmented Generation (RAG)
 
-> Snake • Metrics • Activity • Visitors
+📊 Business Analytics
 
----
+☁️ Google Cloud
 
-# 🎯 Goals
+📈 Product Analytics
 
-### 2026
+🤝 Open Source
 
-- AI Internship
-- AI Projects
-- Open Source
-
-### 2027
-
-- AI Engineer
-- Technical Blogs
-- Community Speaker
+🚀 Production-grade AI Projects
+```
 
 ---
 
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_RESUME">
-<img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-Made with ❤️ by **Prajwal Nikhar**
-
-</div>
+> *"Building intelligent products that create measurable business impact."*
