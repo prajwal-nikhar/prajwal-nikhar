@@ -405,7 +405,6 @@ No activity tracked
 
 
 ### ⭐ Building AI that creates measurable business impact.
-
+<div center='align'>
 Made with ❤️ by **Prajwal Nikhar**
-
 </div>
