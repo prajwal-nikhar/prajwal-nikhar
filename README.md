@@ -396,11 +396,9 @@ Python • LangChain • OpenAI • ChromaDB
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 mins
+Total Time: 0 secs
 
-Markdown   11 mins               █████████████████▒░░░░░░░   68.91 %
-Python     4 mins                ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
