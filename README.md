@@ -396,12 +396,11 @@ Python • LangChain • OpenAI • ChromaDB
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 24 mins
+Total Time: 1 hr 32 mins
 
-Python     1 hr                  ████████████████▓░░░░░░░░   66.81 %
-JSON       21 mins               ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-Other      7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Markdown   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Python     1 hr                  ████████████████▒░░░░░░░░   65.76 %
+JSON       21 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Markdown   10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 ```
 
 <!--END_SECTION:waka-->
