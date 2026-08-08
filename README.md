@@ -396,13 +396,16 @@ Python • LangChain • OpenAI • ChromaDB
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 55 mins
+Total Time: 7 hrs 4 mins
 
-JSON         39 mins               █████████████████▓░░░░░░░   70.84 %
-TypeScript   13 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
-Markdown     1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   2 hrs 52 mins         ██████████░░░░░░░░░░░░░░░   40.51 %
+YAML         1 hr 31 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+JSON         1 hr 22 mins          █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Markdown     33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JavaScript   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Docker       14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Prisma       9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Bash         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
