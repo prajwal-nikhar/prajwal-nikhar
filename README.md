@@ -399,9 +399,9 @@ Python • LangChain • OpenAI • ChromaDB
 Total Time: 7 hrs 4 mins
 
 TypeScript   2 hrs 52 mins         ██████████░░░░░░░░░░░░░░░   40.51 %
-YAML         1 hr 31 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+YAML         1 hr 31 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
 JSON         1 hr 22 mins          █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-Markdown     33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Markdown     33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
 JavaScript   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 Docker       14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 Prisma       9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
