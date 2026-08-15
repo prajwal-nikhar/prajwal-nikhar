@@ -396,16 +396,9 @@ Python • LangChain • OpenAI • ChromaDB
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 9 mins
+Total Time: 0 secs
 
-TypeScript   2 hrs 38 mins         ██████████▓░░░░░░░░░░░░░░   42.73 %
-YAML         1 hr 31 mins          ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-JSON         43 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Markdown     32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-JavaScript   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Docker       14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Prisma       9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Bash         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
