@@ -145,7 +145,7 @@ Python • FastAPI • LangChain • OpenAI • ChromaDB • Docker
 
 <td width="50%">
 
-<img src="./assets/projects/ai-agent.png" width="100%"/>
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-agency-core-3d-icon-png-download-12002312.png" width="100%"/>
 
 </td>
 
@@ -161,7 +161,7 @@ Python • FastAPI • LangChain • OpenAI • ChromaDB • Docker
 
 <td width="50%">
 
-<img src="./assets/projects/credit-risk.png" width="100%"/>
+<img src="https://skillfine.com/wp-content/uploads/2022/12/5db40aafb94a9d55ba44232345d2be51.png" width="100%"/>
 
 </td>
 
@@ -252,7 +252,7 @@ React • FastAPI • PostgreSQL • Python • OpenAI
 
 <td width="50%">
 
-<img src="./assets/projects/esg-platform.png" width="100%"/>
+<img src="https://edge.dei.so/wp-content/uploads/2025/04/DEISO_ESG_AI_Training_1.png" width="100%"/>
 
 </td>
 
@@ -268,7 +268,7 @@ React • FastAPI • PostgreSQL • Python • OpenAI
 
 <td width="50%">
 
-<img src="./assets/projects/blinkit-dashboard.png" width="100%"/>
+<img src="https://miro.medium.com/1*7x_V0egUg55vaRXcnANSHw.png" width="100%"/>
 
 </td>
 
