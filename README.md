@@ -35,7 +35,7 @@ Building AI-powered products that bridge **Artificial Intelligence**, **Analytic
 
 **MBA | Big Data Analytics**
 
-**Former TCS System Engineer**
+**Former TCS Business Analyst**
 
 </td>
 
