@@ -41,7 +41,7 @@ Building AI-powered products that bridge **Artificial Intelligence**, **Analytic
 
 <td width="65%">
 
-I'm currently pursuing an **MBA (Big Data Analytics)** at **Goa Institute of Management** after working as a **System Engineer at Tata Consultancy Services**.
+Pursuing an **MBA (Big Data Analytics)** at **Goa Institute of Management**, with experience at **TCS** and **Bosch**, skilled in **Python, SQL, Power BI, Tableau, and Generative AI**.
 
 My interests lie in:
 
@@ -65,6 +65,7 @@ I enjoy building intelligent systems that solve real business problems while com
 | Enterprise Experience | Analytics | Artificial Intelligence |
 |----------------------|-----------|-------------------------|
 | 30+ Months at TCS | Power BI, Tableau, Python | LLMs, RAG, AI Agents |
+| 5 Months Intern at Bosch | PowerBI, Python | RAG, AI Agents |
 
 ---
 ## 💻 Tech Stack
