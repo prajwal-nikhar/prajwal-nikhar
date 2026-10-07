@@ -346,8 +346,8 @@ Python • LangChain • OpenAI • ChromaDB
 </td>
 
 <td width="50%">
-
-<img src="./assets/projects/genai-playground.png" width="100%"/>
+  
+<img src="https://img-c.udemycdn.com/course/480x270/6568209_04ef.jpg?w=3840&q=75" width="100%"/>
 
 </td>
 
@@ -374,10 +374,6 @@ Python • LangChain • OpenAI • ChromaDB
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-nikhar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-nikhar&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 ---
 
@@ -390,16 +386,6 @@ Python • LangChain • OpenAI • ChromaDB
 </div>
 
 ---
-
-# ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 <br>
