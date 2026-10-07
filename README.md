@@ -6,7 +6,7 @@
 
 ### AI Engineer • Data Analytics Professional • MBA (Big Data Analytics)
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Business+Analytics;Former+TCS+System+Engineer;Google+Cloud+Certified"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Business+Analytics;Former+TCS+Business+Analyst;Google+Cloud+Certified"/>
 
 Building AI-powered products that bridge **Artificial Intelligence**, **Analytics**, and **Business Strategy**.
 
